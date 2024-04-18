@@ -5,7 +5,7 @@ Seasoned Full Stack Developer with 10 years of experience specializing in PHP, L
 
 ## Skills
 
-💻 ### Programming Languages
+### 💻 Programming Languages
 - PHP
 - JavaScript (ES6+)
 
