@@ -9,7 +9,7 @@ Seasoned Full Stack Developer with 10 years of experience specializing in PHP, L
 - PHP
 - JavaScript (ES6+)
 
-🛠 ### Frameworks
+### 🛠 Frameworks
 - Laravel
 - WordPress
 - NextJS
@@ -17,44 +17,44 @@ Seasoned Full Stack Developer with 10 years of experience specializing in PHP, L
 - Angular
 - Ionic
 
-🔙 ### Backend
+### 🔙 Backend
 - NodeJS
 
-☁️ ### Cloud Platforms
+### ☁️ Cloud Platforms
 - AWS (Amazon Web Services)
 - Azure
 - GCP (Google Cloud Platform)
 
-🗃 ### Databases
+### 🗃 Databases
 - MySQL
 - MongoDB
 
 ## Types of Projects
 
-🛒 ### E-commerce
+### 🛒 E-commerce
 - Developed and maintained scalable e-commerce platforms using Laravel and WordPress, integrating payment gateways and ensuring secure transactions.
 
-📝 ### Content Management Systems (CMS)
+### 📝 Content Management Systems (CMS)
 - Built custom CMS solutions with WordPress, empowering clients to manage their content efficiently and effectively.
 
-🌐 ### Web Applications
+### 🌐 Web Applications
 - Created dynamic web applications with ReactJS, Angular, and Ionic, providing rich user experiences across multiple devices.
 
-🔌 ### API Development
+### 🔌 API Development
 - Designed and implemented RESTful APIs with NodeJS, facilitating seamless communication between frontend and backend systems.
 
 ## Industries Worked In
 
-🛍 ### E-commerce
+### 🛍 E-commerce
 - Developed solutions for online retail businesses, enhancing user experience and optimizing conversion rates.
 
-🎓 ### Education
+### 🎓 Education
 - Collaborated with educational institutions to build e-learning platforms and content management systems tailored to their specific needs.
 
-⚕️ ### Healthcare
+### ⚕️ Healthcare
 - Contributed to healthcare applications, ensuring data security, compliance, and seamless communication between patients and healthcare providers.
 
-💰 ### Finance
+### 💰 Finance
 - Built financial management tools and dashboards, providing insights and analytics to financial professionals and organizations.
 
 ## Key Achievements
