@@ -1,7 +1,7 @@
 # Chirag Unadkat
 
 ## 👨‍💻 About Me
-Seasoned Full Stack Developer with 7+ years of experience specializing in PHP, Laravel, WordPress, as well as modern JavaScript frameworks like NextJS, ReactJS, Angular, and Ionic. Proficient in backend technologies such as NodeJS, and skilled in cloud platforms like AWS, Azure, and GCP. Extensive experience with both relational (MySQL) and NoSQL (MongoDB) databases.
+Seasoned Full Stack Developer with 10+ years of experience specializing in PHP, Laravel, WordPress, as well as modern JavaScript frameworks like NextJS, ReactJS, Angular, and Ionic. Proficient in backend technologies such as NodeJS, and skilled in cloud platforms like AWS, Azure, and GCP. Extensive experience with both relational (MySQL) and NoSQL (MongoDB) databases.
 
 ## Skills
 
